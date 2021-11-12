@@ -12,7 +12,12 @@
         "position_of_end":  "17914.9854.762",
         "center_point": "10894.5523.1234",
         "height_of_person": 145.7,
-        "is_handicapped":  ""
+				"is_handicapped":  "",
+				"momrning_evening_night": "Morning",
+				"brightness": 9.5,
+				"temperature_external": 25.4,
+				"temperature_vehicle": 24.2,
+				"humidity": 37.3,
     },
   "ai_schema": "Alert of Danger to Driver",
 	"situation_class":  "A Person Fallen",
