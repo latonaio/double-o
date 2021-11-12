@@ -1,0 +1,20 @@
+{
+    "connection_key": "response",
+    "result": true,
+    "redis_key": "abcdefg",
+    "filepath": "/var/lib/aion/Data/ai_meta_data/abcdef.json",
+    "SetOfMetaData": {
+        "sensor_device_name": "Mercury",
+				"persona": "70's/Female",
+				"stop_to_ride":  "六本木ヒルズ前",
+				"stop_to_get_off":  "東京タワー前",
+				"position_of_start":  "2914.1054.1955",
+        "position_of_end":  "17914.9854.762",
+        "center_point": "10894.5523.1234",
+        "height_of_person": 145.7,
+        "is_handicapped":  ""
+    },
+  "ai_schema": "Alert of Danger to Driver",
+	"situation_class":  "A Person Fallen",
+	"timestamp": "20211118/8:21:17"
+}
