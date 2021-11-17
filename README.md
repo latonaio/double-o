@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91356865/142166102-e4fb3535-1e06-4285-91cc-017e79cce219.png"  width="300" title="Empowers&nbsp;IoX&nbsp;from&nbsp;a&nbsp;piece&nbsp;of&nbsp;AI.">
+</p>
+
 # double-o 
 double-oは、主にエッジコンピューティング環境において、産業用・自動運転用に定義されたデータフォーマットを格納したレポジトリです。 
 各データフォーマットは、クラウド環境においても適用可能です。  
