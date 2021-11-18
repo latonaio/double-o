@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91356865/142166859-502f4e3e-f2ff-4c42-b4e8-c1628487e03b.png"  width="300" >
 </p>
+<p align="center">
+  Nascent Architecture and Styled Formats for Omniverse Data Cluster
+</p>
 
 ***  
 
